@@ -1,0 +1,752 @@
+[
+  {
+    "attrs": {
+      "x": "837.3857292906564",
+      "y": "410.0607752893344",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Berlin",
+    "popover": "Regionalgruppe Berlin\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=503&sid=b9eff9c8df9281eed1fa7bf7f41ad5f8\" target=\"_blank\">Forenseite</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "737.7766403368731",
+      "y": "572.0501840490798",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Leipzig",
+    "popover": "Regionalgruppe Leipzig\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=154&sid=aa56cb054293860c86ea533b0d532e89\n\" target=\"_blank\">Forenseite</a>\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "870.7501766992101",
+      "y": "638.3816009286745",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Dresden",
+    "popover": "Regionalgruppe Dresden\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=153\n\" target=\"_blank\">Forenseite</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "717.4992733142442",
+      "y": "146.85019184967595",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Rostock",
+    "popover": "Regionalgruppe Mecklenburg-Vorpommern: Rostock\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=21482\n\" target=\"_blank\">Forenseite</a>\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "802.4647107831065",
+      "y": "112.95710783106513",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Stralsund",
+    "popover": "Regionalgruppe Mecklenburg-Vorpommern: Stralsund\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=21482\n\" target=\"_blank\">Forenseite</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "475.37358676506807",
+      "y": "236.11975243951187",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Hamburg",
+    "popover": "Regionalgruppe Hamburg\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=172\n\" target=\"_blank\">Forenseite</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "344.6200",
+      "y": "455.5100",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Ostwestfalen-Lippe",
+    "popover": "Regionalgruppe Ostwestfalen-Lippe\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=8708\n\" target=\"_blank\">Forenseite</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "213.52286980231767",
+      "y": "567.7037218813906",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Ruhrgebiet",
+    "popover": "Regionalgruppe Ruhrgebiet\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=288\n\" target=\"_blank\">Forenseite</a>\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "175.0153036437247",
+      "y": "592.6195951417004",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Köln",
+    "popover": "Regionalgruppe Köln\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=94\n\" target=\"_blank\">Forenseite</a>\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "334.0000",
+      "y": "789.7200",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Frankfurt",
+    "popover": "Regionalgruppe Frankfurt\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=173\n\" target=\"_blank\">Forenseite</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "299.04035075161056",
+      "y": "783.5164209019327",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Hochtaunuskreis",
+    "popover": "Regionalgruppe Hochtaunuskreis\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=180\n\" target=\"_blank\">Forenseite</a>\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "324.7919147160341",
+      "y": "983.3686166713519",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Karlsruhe",
+    "popover": "Regionalgruppe Karlsruhe\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=155\n\" target=\"_blank\">Forenseite</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "398.0546313528991",
+      "y": "1026.9591052254832",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Stuttgart",
+    "popover": "Regionalgruppe Stuttgart\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=67\n\" target=\"_blank\">Forenseite</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "617.261596277738",
+      "y": "880.5973156764495",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Nürnberg",
+    "popover": "Regionalgruppe Nürnberg\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=233\n\" target=\"_blank\">Forenseite</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "619.89",
+      "y": "807.0471224051539",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Bayreuth",
+    "popover": "Regionalgruppe Bayreuth\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=187\n\" target=\"_blank\">Forenseite</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "645.8800",
+      "y": "1083.9300",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe München",
+    "popover": "Regionalgruppe München\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=40\n\" target=\"_blank\">Forenseite</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "202.8100",
+      "y": "564.4700",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Gründungsaufruf Wuppertal",
+    "popover": "Gründungsaufruf Wuppertal\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=881\n\" target=\"_blank\">Forenseite</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "434.64459449743225",
+      "y": "250.55919630843846",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Gründungsaufruf Stade",
+    "popover": "Gründungsaufruf Stade\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewforum.php?f=3\n\" target=\"_blank\">Forenseite</a>\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "510.619421566213",
+      "y": "222.6751249692161",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Gründungsaufruf Kreis Steinburg",
+    "popover": "Gründungsaufruf Kreis Steinburg\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=14193\n\" target=\"_blank\">Forenseite</a>\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "434.1500",
+      "y": "1185.5500",
+      "width": "31.059789581729536",
+      "height": "31.059789581729536",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Gründungsaufruf Wangen/Allgäu",
+    "popover": "Gründungsaufruf Wangen/Allgäu\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=133\n\" target=\"_blank\">Forenseite</a>",
+    "width": "32",
+    "height": "32"
+  },
+  {
+    "attrs": {
+      "x": "570.5498454896614",
+      "y": "880.0135446489435",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schule16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Jenaplan Gymnasium Nürnberg",
+    "popover": "<strong>Jenaplan Gymnasium Nürnberg</strong><br />\nAm Jenaplan-Gymnasium wird gebundener Ganztagesunterricht nicht nur bis zur 7. Klasse, sondern bis zum Abitur angeboten.<br />\nHier geht es zum <a href=\"http://blog.schule-im-aufbruch.de/schulen-im-netzwerk/jenaplan-gymnasium-nurnberg/\n\" target=\"_blank\">Schulportrait</a>\n\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "818.0630089886528",
+      "y": "390.5452708115147",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schule16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "MUSE International School Berlin",
+    "popover": "<strong>MUSE International School Berlin</strong>\n<br />\nDie internationale Sekundarschule ist Teil des Nobel Education Networks (NEN) und wird im September 2014 im Zentrum Berlins eröffnen.<br />\nHier geht es zum <a href=\"http://blog.schule-im-aufbruch.de/schulen-im-netzwerk/muse-international-school-berlin/\n\" target=\"_blank\">Schulportrait</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "840.5536142287792",
+      "y": "393.35871738179304",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schule16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "ESBZ",
+    "popover": "<strong>Evangelische Schule Berlin Zentrum (ESBZ)</strong>\n<br />\nGemeinschaftsschule in Berlin. Die Schulleiterin Margret Rasfeld ist Mitbegründerin von Schule im Aufbruch<br />\nHier geht es zum <a href=\"http://blog.schule-im-aufbruch.de/schulen-im-netzwerk/evangelische-schule-berlin-zentrum-esbz/\n\" target=\"_blank\">Schulportrait</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "820.67",
+      "y": "411.1254023320805",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schule16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Schulgründung Quinoa",
+    "popover": "<strong>Schulneugründung Quinoa</strong>\n<br />\nSchulneugründung in Berlin-Wedding. Eröffnung im Sommer 2014<br />\nHier geht es zum <a href=\"http://blog.schule-im-aufbruch.de/schulen-im-netzwerk/schulneugrundung-quinoa/\n\" target=\"_blank\">Schulportrait</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "177.5100",
+      "y": "559.2100",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schule16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Franziskus Schule Erkelenz & Houverath",
+    "popover": "<strong>Franziskus-Schule Erkelenz & Houverath</strong>\n<br />\nDer Schulverbund Franziskus-Schule Erkelenz & Houverath besteht seit dem Schuljahr 2009/10. Beide Schulen des Schulverbundes sind katholische Bekenntnisschulen.<br />\nHier geht es zum <a href=\"http://blog.schule-im-aufbruch.de/schulen-im-netzwerk/franziskus-schule-erkelenz-houverath/\n\" target=\"_blank\">Schulportrait</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "794.83",
+      "y": "599.9290517490604",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schule16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Christliches Gymnasium Rudolf Stempel",
+    "popover": "<strong>Christliches Gymnasium Rudolf Stempel</strong>\n<br />\nFreies Gymnasium in privater Trägerschaft des Vereins Christliches Schulzentrum \"Rudolf Stempel\" in Riesa.<br />\nHier geht es zum <a href=\"http://blog.schule-im-aufbruch.de/schulen-im-netzwerk/christliches-gymnasium-rudolf-stempel/\n\" target=\"_blank\">Schulportrait</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "389.54",
+      "y": "997.2975244010647",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schule16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Freie Schule Christophine",
+    "popover": "<strong>Freie Schule Christophine</strong>\n<br />\nBürgerschaftlich getragene Grundschule, zeitgemäße Pädagogik, Lernen in kleinen Gruppen, jahrgangsübergreifender Unterricht<br />\nHier geht es zum <a href=\"http://blog.schule-im-aufbruch.de/schulen-im-netzwerk/freie-schule-christophine/\n\" target=\"_blank\">Schulportrait</a>\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "345.2400",
+      "y": "707.3200",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schule16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Aliceschule Gießen",
+    "popover": "<strong>Aliceschule Gießen</strong>\n<br />\nFachschule für Sozialpädagogik<br />\nHier geht es zum <a href=\"http://blog.schule-im-aufbruch.de/schulen-im-netzwerk/aliceschule-giessen/\n\" target=\"_blank\">Schulportrait</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "212.78939271255058",
+      "y": "599.351012145749",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schule16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Aktive Schule Köln",
+    "popover": "<strong>Aktive Schule Köln</strong>\n<br />\nGrund- und Hauptschule<br />\nHier geht es zum <a href=\"http://blog.schule-im-aufbruch.de/schulen-im-netzwerk/aktive-schule-koln/\n\" target=\"_blank\">Schulportrait</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "864.2571581961346",
+      "y": "436.3558768790265",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Königs Wusterhausen",
+    "popover": "Regionalgruppe Berlin\nHier geht es zur <a href=\" http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=38008\n&sid=b9eff9c8df9281eed1fa7bf7f41ad5f8\" target=\"_blank\">Forenseite</a>\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "508.5290042336588",
+      "y": "535.4472955974843",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Göttingen",
+    "popover": "Hier geht es zur <a href=\" http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=29821\n&sid=b9eff9c8df9281eed1fa7bf7f41ad5f8\" target=\"_blank\">Forenseite</a>\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "523.528427672956",
+      "y": "566.8488679245282",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Nordhessen",
+    "popover": "Hier geht es zur <a href=\" http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t= 38007\n&sid=b9eff9c8df9281eed1fa7bf7f41ad5f8\" target=\"_blank\">Forenseite</a>\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "347.6500",
+      "y": "815.1200",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Bergstraße",
+    "popover": "",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "913.2100",
+      "y": "330.7600",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schule16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Astrid-Lindgren-Schule",
+    "popover": "<strong>Astrid-Lindgren-Schule</strong>\n<br />\nAstrid-Lindgren-Schule in Schwedt<br />\nHier geht es zum <a href=\" http://blog.schule-im-aufbruch.de/schulen-im-netzwerk/astrid-lindgren-grundschule/\" target=\"_blank\">Schulportrait</a>\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "662.7458064692086",
+      "y": "1083.9739293896255",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schule16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Anne-Frank-Realschule\n",
+    "popover": "<strong>Anne-Frank-Realschule</strong><br />\nStädtische Realschule für Mädchen<br />\nHier geht es zum <a href=\" http://blog.schule-im-aufbruch.de/schulen-im-netzwerk/anne-frank-realschule/\n\" target=\"_blank\">Schulportrait</a>\n\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "94.5200",
+      "y": "609.4300",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schule16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "4. Gesamtschule Aachen",
+    "popover": "<strong>4. Aachener Gesamtschule</strong>\n<br />\nstaatliche Gesamtschule<br />\nHier geht es zum <a href=\" http://blog.schule-im-aufbruch.de/schulen-im-netzwerk/4-aachener-gesamtschule/ \" target=\"_blank\">Schulportrait</a>\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "236.09113924050632",
+      "y": "695.9818987341772",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schule16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Alice-Salomon-Schule BBS Linz",
+    "popover": "<strong>Alice-Salomon-Schule BBS Linz</strong><br />\nBerufsbildende Schule<br />\nHier geht es zum <a href=\" http://blog.schule-im-aufbruch.de/schulen-im-netzwerk/alice-salomon-schule-linz/\" target=\"_blank\">Schulportrait</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "856.0853584134029",
+      "y": "415.865602010904",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schulbegleiter.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Schulbegleiterin Anna Holfeld",
+    "popover": "<strong>Schulbegleiterin Anna Holfeld</strong>\nHier geht es zum <a href=\" http://blog.schule-im-aufbruch.de/schulbegleiterin-anna-holfeld\n/\"target=\"_blank\">Portrait</a>\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "859.1330142377772",
+      "y": "394.6824400225797",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schulbegleiter.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Schulbegleiterin Nicola Kriesel",
+    "popover": "<strong>Schulbegleiterin Nicola Kriesel </strong>\nHier geht es zum <a href=\" http://blog.schule-im-aufbruch.de/schulbegleiterin-nicola-kriesel\n/\"target=\"_blank\">Portrait</a>\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "761.4155023990968",
+      "y": "577.5095214350675",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schulbegleiter.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Schulbegleiterin Ariane Brena",
+    "popover": "<strong>Schulbegleiterin Ariane Brena</strong>\nHier geht es zum <a href=\" http://blog.schule-im-aufbruch.de/schulbegleiterin-ariane-brena/\"target=\"_blank\">Portrait</a>\n\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "513.3812249506069",
+      "y": "397.2079424216766",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schulbegleiter.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Schulbegleiterin Dorothee Busch",
+    "popover": "<strong>Schulbegleiterin Dorothee Busch </strong>\nHier geht es zum <a href=\" http://blog.schule-im-aufbruch.de/schulbegleiterin-dorothee-busch/\"target=\"_blank\">Portrait</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "718.2742152572085",
+      "y": "572.5985267638313",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schulbegleiter.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Schulbegleiterin Anette Esser",
+    "popover": "<strong>Schulbegleiterin Anette Esser</strong>\nHier geht es zum <a href=\" http://blog.schule-im-aufbruch.de/schulbegleiterin-anette-esser/\" target=\"_blank\">Portrait</a>\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "357.5124978831499",
+      "y": "979.05",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schulbegleiter.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Schulbegleiter Bernd Mumbach",
+    "popover": "<strong>Schulbegleiter Bernd Mumbach</strong>\nHier geht es zum <a href=\" http://blog.schule-im-aufbruch.de/schulbegleiter-bernd-mumbach/\" target=\"_blank\">Portrait</a>\n\n",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "449.5600",
+      "y": "105.1600",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schulbegleiter.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Schulbegleiterin Ulrike Martens",
+    "popover": "<strong>Schulbegleiterin Ulrike Martens </strong>\nHier geht es zum <a href=\" http://blog.schule-im-aufbruch.de/schulbegleiterin-ulrike-martens/\"target=\"_blank\">Portrait</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "530.9964202334631",
+      "y": "394.60028534370946",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Hannover",
+    "popover": "Regionalgruppe Hannover\nHier geht es zur <a href=\" http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=38027\" target=\"_blank\">Forenseite</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "219.5620233463035",
+      "y": "545.1137743190661",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schule16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Windrather Talschule",
+    "popover": "<strong>Windrather Talschule</strong>\n<br />\nFreie Waldorfschule in Velbert.<br />\nHier geht es zum <a href=\"http://blog.schule-im-aufbruch.de/schulen-im-netzwerk/windrather-talschule/\n\" target=\"_blank\">Schulportrait</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "514.864074074074",
+      "y": "370.9111111111111",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schule16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "IGS Nienburg",
+    "popover": "<strong>IGS Nienburg</strong>\n<br />\nIntegrierte Gesamtschule gegründet August 2013.<br />\nHier geht es zum <a href=\"http://blog.schule-im-aufbruch.de/schulen-im-netzwerk/igs-nienburg/\n\" target=\"_blank\">Schulportrait</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "829.265461905085",
+      "y": "397.4163047593206",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schule16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Galileo Gymnasium",
+    "popover": "<strong>Galileo Gymnasium</strong>\n<br />\nDas Galileo Gymnasium bereitet seine Schüler_innen auf eine erfolgreiche und erfüllte Gestaltung ihrer Zukunft in Studium und Beruf vor.\n<br />\nHier geht es zum <a href=\"http://blog.schule-im-aufbruch.de/schulen-im-netzwerk/galileo-gymnasium/\n\" target=\"_blank\">Schulportrait</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "186.24403257511935",
+      "y": "459.4498146588037",
+      "width": "15.529894790864768",
+      "height": "15.529894790864768",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_schule16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Gesamtschule Emmerich",
+    "popover": "<strong>Gesamtschule Emmerich</strong>\n<br />\nNeue Gesamtschule; Start 2014/15.<br />\nHier geht es zum <a href=\"http://blog.schule-im-aufbruch.de/schulen-im-netzwerk/gesamtschule-emmerich/\n\" target=\"_blank\">Schulportrait</a>",
+    "width": "16",
+    "height": "16"
+  },
+  {
+    "attrs": {
+      "x": "250.9486579420067",
+      "y": "518.2216448550166",
+      "width": "15.53",
+      "height": "15.53",
+      "src": "http://blog.schule-im-aufbruch.de/wp-content/plugins/mapsvg/markers/sia_marker_regionalgruppe16.png",
+      "cursor": "pointer",
+      "target": ""
+    },
+    "tooltip": "Regionalgruppe Borken/Bocholt/Isselburg",
+    "popover": "Regionalgruppe Borken\nHier geht es zur <a href=\"http://blog.schule-im-aufbruch.de/phpbb3/viewtopic.php?f=3&t=38082&p=40115#p40115\n\" target=\"_blank\">Forenseite</a>\n",
+    "width": "16",
+    "height": "16"
+  }
+]

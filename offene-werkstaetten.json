@@ -1,0 +1,3618 @@
+[
+  {
+    "Workshop": {
+      "uid": "126",
+      "url": "sdw-neukoelln",
+      "lat": "52.49133",
+      "lng": "13.4283",
+      "name": "SDW-Neukölln",
+      "street": "Pflügerstraße 11",
+      "zip": "12047",
+      "city": "Berlin-Neukölln",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "26",
+        "72",
+        "121",
+        "73",
+        "123",
+        "77",
+        "107",
+        "69",
+        "71",
+        "25",
+        "102",
+        "90",
+        "100"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "138",
+        "name": "foliendruck"
+      },
+      {
+        "id": "142",
+        "name": "grossformat-druck"
+      },
+      {
+        "id": "144",
+        "name": "handdruck-tische"
+      },
+      {
+        "id": "141",
+        "name": "handdrucktische"
+      },
+      {
+        "id": "139",
+        "name": "kunstdruck"
+      },
+      {
+        "id": "145",
+        "name": "mobile druckgeräte"
+      },
+      {
+        "id": "137",
+        "name": "papierdruck"
+      },
+      {
+        "id": "146",
+        "name": "schablonendruck"
+      },
+      {
+        "id": "114",
+        "name": "siebdruck"
+      },
+      {
+        "id": "143",
+        "name": "siebdrucken"
+      },
+      {
+        "id": "136",
+        "name": "t-shirt-karussell"
+      },
+      {
+        "id": "140",
+        "name": "textildruck"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "149",
+      "url": "atelier-fuer-keramik",
+      "lat": "48.1487715",
+      "lng": "11.5837778",
+      "name": "Atelier für Keramik",
+      "street": "Kaulbachstraße 26\r\nSchwabing",
+      "zip": "80539",
+      "city": "München",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "178",
+        "73",
+        "113",
+        "77",
+        "128",
+        "107",
+        "25"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "1",
+        "name": "aufbaukurse"
+      },
+      {
+        "id": "14",
+        "name": "bemalen"
+      },
+      {
+        "id": "3",
+        "name": "drehen an der elektrischen töpferscheibe"
+      },
+      {
+        "id": "10",
+        "name": "drehkurs"
+      },
+      {
+        "id": "12",
+        "name": "erwachsene"
+      },
+      {
+        "id": "2",
+        "name": "freie werkstatt"
+      },
+      {
+        "id": "11",
+        "name": "freies töpfern"
+      },
+      {
+        "id": "13",
+        "name": "glasieren"
+      },
+      {
+        "id": "9",
+        "name": "keramik"
+      },
+      {
+        "id": "347",
+        "name": "kinder"
+      },
+      {
+        "id": "5",
+        "name": "kindergeburtstag"
+      },
+      {
+        "id": "4",
+        "name": "kinderkurse keramik"
+      },
+      {
+        "id": "302",
+        "name": "kreativ"
+      },
+      {
+        "id": "15",
+        "name": "majolikatechnik"
+      },
+      {
+        "id": "109",
+        "name": "malen"
+      },
+      {
+        "id": "7",
+        "name": "ton"
+      },
+      {
+        "id": "6",
+        "name": "töpferkurse"
+      },
+      {
+        "id": "8",
+        "name": "töpfern"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "150",
+      "url": "bikekitchen-augsburg",
+      "lat": "48.3724967",
+      "lng": "10.8908408",
+      "name": "Bikekitchen Augsburg",
+      "street": "Bikekitchen Augsburg\r\nc/o ADFC Augsburg e.V.\r\nHeilig-Kreuz-Str. 30",
+      "zip": "86152",
+      "city": "Augsburg",
+      "country_name": "Deutschland",
+      "categories": [
+        "183"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "182",
+      "url": "dingfabrik",
+      "lat": "50.966991",
+      "lng": "6.9515069",
+      "name": "Dingfabrik Köln",
+      "street": "\"Bluna Keller\"\r\nErzbergerplatz 9",
+      "zip": "50733",
+      "city": "Köln",
+      "country_name": "Deutschland",
+      "categories": [
+        "26",
+        "73",
+        "123",
+        "95",
+        "183",
+        "87",
+        "98",
+        "88",
+        "389",
+        "122",
+        "90"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "170",
+        "name": "3d-drucker"
+      },
+      {
+        "id": "16",
+        "name": "cnc-modellbaufräse"
+      },
+      {
+        "id": "171",
+        "name": "lasercutter"
+      },
+      {
+        "id": "374",
+        "name": "nähmaschine"
+      },
+      {
+        "id": "389",
+        "name": "schweißgerät"
+      },
+      {
+        "id": "388",
+        "name": "standbohrmaschine"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "183",
+      "url": "fablab-aachen",
+      "lat": "50.7785971",
+      "lng": "6.0592972",
+      "name": "FabLab Aachen",
+      "street": "RWTH Aachen University\r\nLehrstuhl Informatik 10\r\nAhornstraße",
+      "zip": "52074",
+      "city": "Aachen",
+      "country_name": "Deutschland",
+      "categories": [
+        "95",
+        "77",
+        "102"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "180",
+      "url": "bikekitchen-muenchen",
+      "lat": "48.1503691",
+      "lng": "11.5325962",
+      "name": "Bikekitchen München",
+      "street": "Schulstr. 1/ hinterm blauen Tor",
+      "zip": "80634",
+      "city": "München",
+      "country_name": "Deutschland",
+      "categories": [
+        "73",
+        "183",
+        "77",
+        "179",
+        "69",
+        "122"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "195",
+      "url": "illenau-werkstaetten",
+      "lat": "48.62577",
+      "lng": "8.08273",
+      "name": "Illenau-Werkstätten e. V",
+      "street": "Illenauer Allee 54",
+      "zip": "77855",
+      "city": "Achern",
+      "country_name": "Deutschland",
+      "categories": [
+        "26",
+        "178",
+        "73",
+        "87",
+        "113",
+        "77",
+        "128",
+        "107",
+        "88",
+        "25",
+        "119",
+        "102",
+        "89",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "185",
+      "url": "fabulous-st-pauli",
+      "lat": "53.5582791",
+      "lng": "9.9670132",
+      "name": "Fab Lab Fabulous St.Pauli e.V.",
+      "street": "Sternstr. 2, 20357 Hamburg",
+      "zip": "20359",
+      "city": "Hamburg",
+      "country_name": "Deutschland",
+      "categories": [
+        "67",
+        "121",
+        "73",
+        "123",
+        "95",
+        "87",
+        "77",
+        "107",
+        "122",
+        "102",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "186",
+      "url": "haus-der-eigenarbeit",
+      "lat": "48.1288644",
+      "lng": "11.602391",
+      "name": "Haus der Eigenarbeit",
+      "street": "Wörthstraße 42",
+      "zip": "81667",
+      "city": "München",
+      "country_name": "Deutschland",
+      "categories": [
+        "26",
+        "178",
+        "125",
+        "27",
+        "72",
+        "73",
+        "123",
+        "95",
+        "87",
+        "113",
+        "77",
+        "128",
+        "179",
+        "69",
+        "88",
+        "126",
+        "389",
+        "122",
+        "124",
+        "119",
+        "102",
+        "90"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "26",
+        "name": "adventskranzbinden"
+      },
+      {
+        "id": "23",
+        "name": "basteln"
+      },
+      {
+        "id": "27",
+        "name": "beratung"
+      },
+      {
+        "id": "29",
+        "name": "bildhauerei"
+      },
+      {
+        "id": "30",
+        "name": "bogen bauen"
+      },
+      {
+        "id": "31",
+        "name": "bohren"
+      },
+      {
+        "id": "19",
+        "name": "bohrmaschine"
+      },
+      {
+        "id": "32",
+        "name": "brennen (keramik)"
+      },
+      {
+        "id": "33",
+        "name": "buchbinden"
+      },
+      {
+        "id": "34",
+        "name": "cnc-technik"
+      },
+      {
+        "id": "35",
+        "name": "drucken"
+      },
+      {
+        "id": "22",
+        "name": "edelstahl schweißen"
+      },
+      {
+        "id": "36",
+        "name": "elektrotechnik"
+      },
+      {
+        "id": "24",
+        "name": "facharbeiten"
+      },
+      {
+        "id": "28",
+        "name": "fachberatung"
+      },
+      {
+        "id": "21",
+        "name": "filzen"
+      },
+      {
+        "id": "37",
+        "name": "fräsen"
+      },
+      {
+        "id": "13",
+        "name": "glasieren"
+      },
+      {
+        "id": "38",
+        "name": "gold- und silberschmieden"
+      },
+      {
+        "id": "40",
+        "name": "gravurarbeiten"
+      },
+      {
+        "id": "18",
+        "name": "hobeln"
+      },
+      {
+        "id": "41",
+        "name": "holzbearbeitung"
+      },
+      {
+        "id": "42",
+        "name": "jugendwerkstatt"
+      },
+      {
+        "id": "43",
+        "name": "keramikarbeiten"
+      },
+      {
+        "id": "44",
+        "name": "kindergeburtstage"
+      },
+      {
+        "id": "20",
+        "name": "kinderwerkstatt"
+      },
+      {
+        "id": "45",
+        "name": "kopertenbindung"
+      },
+      {
+        "id": "54",
+        "name": "laminat und parkett"
+      },
+      {
+        "id": "46",
+        "name": "lötarbeiten"
+      },
+      {
+        "id": "47",
+        "name": "marmormalerei"
+      },
+      {
+        "id": "48",
+        "name": "metallbearbeitung"
+      },
+      {
+        "id": "49",
+        "name": "möbelbau"
+      },
+      {
+        "id": "50",
+        "name": "mosaikarbeiten"
+      },
+      {
+        "id": "51",
+        "name": "nähen"
+      },
+      {
+        "id": "52",
+        "name": "papierarbeiten"
+      },
+      {
+        "id": "53",
+        "name": "parkett und laminat"
+      },
+      {
+        "id": "55",
+        "name": "polstern"
+      },
+      {
+        "id": "25",
+        "name": "praktika"
+      },
+      {
+        "id": "56",
+        "name": "puppen aus ton"
+      },
+      {
+        "id": "57",
+        "name": "reparieren"
+      },
+      {
+        "id": "58",
+        "name": "restaurierung von möbeln"
+      },
+      {
+        "id": "39",
+        "name": "silber- und goldschmieden"
+      },
+      {
+        "id": "8",
+        "name": "töpfern"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "187",
+      "url": "honigfabrik",
+      "lat": "53.5157512",
+      "lng": "9.9824926",
+      "name": "Honigfabrik",
+      "street": "Industriestraße 125-131",
+      "zip": "21107",
+      "city": "Hamburg",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "26",
+        "27",
+        "72",
+        "87",
+        "113",
+        "77",
+        "88",
+        "122"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "60",
+        "name": "hausboot"
+      },
+      {
+        "id": "59",
+        "name": "kfz-selbsthilfewerkstatt"
+      },
+      {
+        "id": "224",
+        "name": "lastenrad"
+      },
+      {
+        "id": "61",
+        "name": "mobile bühne"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "196",
+      "url": "kempodium",
+      "lat": "47.7101284",
+      "lng": "10.3201946",
+      "name": "Kempodium",
+      "street": "Untere Eicher Strasse 3",
+      "zip": "87435",
+      "city": "Kempten",
+      "country_name": "Deutschland",
+      "categories": [
+        "27",
+        "72",
+        "73",
+        "87",
+        "113",
+        "77",
+        "128",
+        "130",
+        "69",
+        "71",
+        "389",
+        "122",
+        "25",
+        "102",
+        "100"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "70",
+        "name": "berufsorientierung"
+      },
+      {
+        "id": "67",
+        "name": "büchermarkt"
+      },
+      {
+        "id": "69",
+        "name": "fahrradbasar"
+      },
+      {
+        "id": "62",
+        "name": "fahrradwerkstatt"
+      },
+      {
+        "id": "65",
+        "name": "ferienbetreuung"
+      },
+      {
+        "id": "64",
+        "name": "ferienprogramm"
+      },
+      {
+        "id": "21",
+        "name": "filzen"
+      },
+      {
+        "id": "68",
+        "name": "instrumentenbasar"
+      },
+      {
+        "id": "20",
+        "name": "kinderwerkstatt"
+      },
+      {
+        "id": "66",
+        "name": "kochkurse"
+      },
+      {
+        "id": "63",
+        "name": "kochwerkstatt"
+      },
+      {
+        "id": "71",
+        "name": "speckstein"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "197",
+      "url": "kreativgarage-im-ackermannbogen",
+      "lat": "48.16493",
+      "lng": "11.55847",
+      "name": "Kreativgarage im Ackermannbogen",
+      "street": "Rosa-Aschenbrenner-Bogen 9",
+      "zip": "80797",
+      "city": "München",
+      "country_name": "Deutschland",
+      "categories": [
+        "27",
+        "72",
+        "123",
+        "87",
+        "128",
+        "179",
+        "94",
+        "122",
+        "25"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "75",
+        "name": "bühnenausstattung"
+      },
+      {
+        "id": "73",
+        "name": "getränke auf kommission"
+      },
+      {
+        "id": "72",
+        "name": "leihgeschirr"
+      },
+      {
+        "id": "74",
+        "name": "partykeller"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "198",
+      "url": "kunst-stoffe",
+      "lat": "52.56552",
+      "lng": "13.41206",
+      "name": "Kunst-Stoffe - Zentralstelle für wiederverwendbare Materialien e.V.",
+      "street": "Berliner Strasse 17",
+      "zip": "13189",
+      "city": "Berlin",
+      "country_name": "Deutschland",
+      "categories": [
+        "67",
+        "73",
+        "87",
+        "77",
+        "69",
+        "88",
+        "389",
+        "122",
+        "25",
+        "102",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "199",
+      "url": "kunstwerkstatt-mohrvilla",
+      "lat": "48.1366069",
+      "lng": "11.5770851",
+      "name": "Kunstwerkstatt Mohrvilla e.V.",
+      "street": "Situlistraße 75\r\nRückgebäude",
+      "zip": "80989",
+      "city": "München",
+      "country_name": "Deutschland",
+      "categories": [
+        "121",
+        "73",
+        "87",
+        "113",
+        "77",
+        "128",
+        "107",
+        "25",
+        "102",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "201",
+      "url": "land-leben-kunst-werk",
+      "lat": "51.58238",
+      "lng": "12.13851",
+      "name": "Land Leben Kunst Werk e.V.",
+      "street": "Geschwister-Scholl-Str. 25",
+      "zip": "06780",
+      "city": "Quetzdölsdorf",
+      "country_name": "Deutschland",
+      "categories": [
+        "73",
+        "123",
+        "87",
+        "77",
+        "130",
+        "88",
+        "122",
+        "89",
+        "100"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "202",
+      "url": "manu-die-offene-werkstatt",
+      "lat": "46.4978628",
+      "lng": "11.3445116",
+      "name": "MANU - die offene Werkstatt",
+      "street": "Quireinerstr. 20 C",
+      "zip": "39100",
+      "city": "Bozen",
+      "country_name": "Italien",
+      "categories": [
+        "67",
+        "68",
+        "72",
+        "73",
+        "123",
+        "114",
+        "87",
+        "113",
+        "77",
+        "128",
+        "130",
+        "107",
+        "179",
+        "88",
+        "71",
+        "122",
+        "25",
+        "119",
+        "102",
+        "90"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "77",
+        "name": "chi fa da se fa per tre"
+      },
+      {
+        "id": "76",
+        "name": "selbermachen bringts"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "203",
+      "url": "machwerk",
+      "lat": "48.1503691",
+      "lng": "11.5325962",
+      "name": "Machwerk e.V.",
+      "street": "Schulstr. 1, hinter dem blauen Tor",
+      "zip": "80634",
+      "city": "München",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "26",
+        "178",
+        "121",
+        "73",
+        "123",
+        "183",
+        "87",
+        "113",
+        "77",
+        "128",
+        "107",
+        "179",
+        "126",
+        "71",
+        "122",
+        "25",
+        "102",
+        "89",
+        "90",
+        "100"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "355",
+        "name": "acrylmalen"
+      },
+      {
+        "id": "85",
+        "name": "actionpainting"
+      },
+      {
+        "id": "86",
+        "name": "aktion painting"
+      },
+      {
+        "id": "81",
+        "name": "brennofen"
+      },
+      {
+        "id": "91",
+        "name": "buttonmaschinen"
+      },
+      {
+        "id": "79",
+        "name": "drehscheibe"
+      },
+      {
+        "id": "80",
+        "name": "druckerpresse"
+      },
+      {
+        "id": "21",
+        "name": "filzen"
+      },
+      {
+        "id": "94",
+        "name": "filzkurse"
+      },
+      {
+        "id": "95",
+        "name": "filzworkshops"
+      },
+      {
+        "id": "344",
+        "name": "gemeinschaftsbild"
+      },
+      {
+        "id": "107",
+        "name": "hochdruck"
+      },
+      {
+        "id": "104",
+        "name": "keramikkurs"
+      },
+      {
+        "id": "105",
+        "name": "keramikworkshop"
+      },
+      {
+        "id": "346",
+        "name": "kreativ-events"
+      },
+      {
+        "id": "345",
+        "name": "kreativ-workshops"
+      },
+      {
+        "id": "99",
+        "name": "kunstevents"
+      },
+      {
+        "id": "110",
+        "name": "kunstgeburtstag"
+      },
+      {
+        "id": "78",
+        "name": "kunstprojekte"
+      },
+      {
+        "id": "109",
+        "name": "malen"
+      },
+      {
+        "id": "97",
+        "name": "malkurse"
+      },
+      {
+        "id": "343",
+        "name": "malwerkstatt"
+      },
+      {
+        "id": "51",
+        "name": "nähen"
+      },
+      {
+        "id": "100",
+        "name": "nähwerkstatt"
+      },
+      {
+        "id": "106",
+        "name": "nähworkshop"
+      },
+      {
+        "id": "90",
+        "name": "offene werkstatt"
+      },
+      {
+        "id": "89",
+        "name": "offenes atelier"
+      },
+      {
+        "id": "82",
+        "name": "vermietungen"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "213",
+      "url": "les-bricoleurs",
+      "lat": "46.8749422",
+      "lng": "7.3671302",
+      "name": "Les Bricoleurs",
+      "street": "Hubelhüsistrasse 8",
+      "zip": "3147",
+      "city": "Mittelhäusern",
+      "country_name": "Schweiz",
+      "categories": [
+        "123",
+        "183",
+        "87",
+        "128",
+        "94",
+        "122",
+        "25"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "204",
+      "url": "nachbarschaftsgaerten",
+      "lat": "51.3340032",
+      "lng": "12.3343002",
+      "name": "Nachbarschaftsgärten e.V.",
+      "street": "Josephstraße 27",
+      "zip": "04177",
+      "city": "Leipzig-Lindenau",
+      "country_name": "Deutschland",
+      "categories": [
+        "26",
+        "123",
+        "183",
+        "87",
+        "128",
+        "130",
+        "71",
+        "122",
+        "25"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "23",
+        "name": "basteln"
+      },
+      {
+        "id": "113",
+        "name": "fahrrad"
+      },
+      {
+        "id": "111",
+        "name": "fahrrad-werkstatt"
+      },
+      {
+        "id": "112",
+        "name": "selbsthilfe"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "205",
+      "url": "open-design-city",
+      "lat": "52.5027691",
+      "lng": "13.4124272",
+      "name": "Open Design City",
+      "street": "Prinzessinenstr. 19-20",
+      "zip": "10969",
+      "city": "Berlin",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "27",
+        "72",
+        "73",
+        "123",
+        "95",
+        "87",
+        "77",
+        "98",
+        "71",
+        "389",
+        "122",
+        "25",
+        "102",
+        "90",
+        "100"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "120",
+        "name": "3d drucker"
+      },
+      {
+        "id": "121",
+        "name": "3d printer"
+      },
+      {
+        "id": "126",
+        "name": "arduino"
+      },
+      {
+        "id": "23",
+        "name": "basteln"
+      },
+      {
+        "id": "130",
+        "name": "biokunststoff"
+      },
+      {
+        "id": "132",
+        "name": "bioplastic"
+      },
+      {
+        "id": "19",
+        "name": "bohrmaschine"
+      },
+      {
+        "id": "123",
+        "name": "cnc fräse"
+      },
+      {
+        "id": "124",
+        "name": "cnc milling"
+      },
+      {
+        "id": "118",
+        "name": "design thinking"
+      },
+      {
+        "id": "135",
+        "name": "drehbank"
+      },
+      {
+        "id": "128",
+        "name": "elektronik"
+      },
+      {
+        "id": "115",
+        "name": "fablab"
+      },
+      {
+        "id": "133",
+        "name": "foamcuttung"
+      },
+      {
+        "id": "119",
+        "name": "kreativworkshop"
+      },
+      {
+        "id": "122",
+        "name": "makerbot"
+      },
+      {
+        "id": "116",
+        "name": "open design"
+      },
+      {
+        "id": "117",
+        "name": "open innovation"
+      },
+      {
+        "id": "129",
+        "name": "screenprinting"
+      },
+      {
+        "id": "114",
+        "name": "siebdruck"
+      },
+      {
+        "id": "131",
+        "name": "starch plastic"
+      },
+      {
+        "id": "134",
+        "name": "thermocutter"
+      },
+      {
+        "id": "125",
+        "name": "workshops"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "206",
+      "url": "siebdruckwerkstatt-k4",
+      "lat": "49.44841",
+      "lng": "11.08175",
+      "name": "Siebdruckwerkstatt K4",
+      "street": "Königsstr. 93",
+      "zip": "90402",
+      "city": "Nürnberg",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "121",
+        "73",
+        "123",
+        "77",
+        "128",
+        "102",
+        "90"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "147",
+        "name": "irisdruck"
+      },
+      {
+        "id": "137",
+        "name": "papierdruck"
+      },
+      {
+        "id": "146",
+        "name": "schablonendruck"
+      },
+      {
+        "id": "114",
+        "name": "siebdruck"
+      },
+      {
+        "id": "143",
+        "name": "siebdrucken"
+      },
+      {
+        "id": "140",
+        "name": "textildruck"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "207",
+      "url": "unternehmen-chance",
+      "lat": "47.55137",
+      "lng": "9.72282",
+      "name": "Unternehmen Chance",
+      "street": "Von-Behring-Str.6 - 8",
+      "zip": "88131",
+      "city": "Lindau",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "73",
+        "183",
+        "87",
+        "77",
+        "128",
+        "107",
+        "179",
+        "126",
+        "71",
+        "122",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "208",
+      "url": "werk-stadtpiraten",
+      "lat": "51.06935",
+      "lng": "13.72977",
+      "name": "Werk-Stadtpiraten e.V.",
+      "street": "Leipziger Straße 33",
+      "zip": "01097",
+      "city": "Dresden",
+      "country_name": "Deutschland",
+      "categories": [
+        "123",
+        "183",
+        "87",
+        "88",
+        "122"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "148",
+        "name": "funktechnik"
+      },
+      {
+        "id": "224",
+        "name": "lastenrad"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "209",
+      "url": "werkbox3",
+      "lat": "48.1234082",
+      "lng": "11.6120973",
+      "name": "WerkBox3",
+      "street": "Grafingerstr.6\r\nBriefkasten 28",
+      "zip": "81671",
+      "city": "München",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "26",
+        "178",
+        "121",
+        "73",
+        "123",
+        "183",
+        "96",
+        "87",
+        "77",
+        "128",
+        "107",
+        "98",
+        "179",
+        "88",
+        "389",
+        "122",
+        "102",
+        "89",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "210",
+      "url": "werkhaus-potsdam",
+      "lat": "52.39538",
+      "lng": "13.11959",
+      "name": "Werkhaus Potsdam",
+      "street": "Rudolf-Breitscheid-Straße 164",
+      "zip": "14482",
+      "city": "Potsdam",
+      "country_name": "Deutschland",
+      "categories": [
+        "178",
+        "73",
+        "183",
+        "96",
+        "87",
+        "113",
+        "77",
+        "128",
+        "130",
+        "107",
+        "122",
+        "25",
+        "102",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "211",
+      "url": "werkstadtladen-loebtau",
+      "lat": "51.0458746",
+      "lng": "13.702583",
+      "name": "Werk.Stadt.Laden",
+      "street": "Wernerstr.21",
+      "zip": "01159",
+      "city": "Dresden",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "26",
+        "121",
+        "73",
+        "123",
+        "96",
+        "87",
+        "77",
+        "98",
+        "179",
+        "94",
+        "389",
+        "122",
+        "25",
+        "102",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1002",
+      "url": "fablab-nuernberg",
+      "lat": "49.4613534",
+      "lng": "11.0294691",
+      "name": "Fablab Region Nürnberg",
+      "street": "Auf AEG / Halle 14 / 2. Etage\r\nMuggenhofer Straße 141",
+      "zip": "90429",
+      "city": "Nürnberg",
+      "country_name": "Deutschland",
+      "categories": [
+        "73",
+        "123",
+        "95",
+        "77",
+        "94",
+        "389",
+        "122",
+        "102",
+        "100"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "276",
+        "name": "electric creatives; arduino"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "868",
+      "url": "kulturlabortrial-error",
+      "lat": "52.4907231",
+      "lng": "13.4482708",
+      "name": "KulturlaborTrial & Error",
+      "street": "Karl-Kungerstr.55",
+      "zip": "12435",
+      "city": "Berlin",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "125",
+        "121",
+        "73",
+        "123",
+        "183",
+        "77",
+        "130",
+        "107",
+        "98",
+        "69",
+        "94",
+        "71",
+        "122",
+        "119",
+        "102",
+        "90",
+        "100"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "164",
+        "name": "creative activism"
+      },
+      {
+        "id": "185",
+        "name": "diy"
+      },
+      {
+        "id": "301",
+        "name": "erziehung"
+      },
+      {
+        "id": "302",
+        "name": "kreativ"
+      },
+      {
+        "id": "299",
+        "name": "non-formal education"
+      },
+      {
+        "id": "298",
+        "name": "open source"
+      },
+      {
+        "id": "163",
+        "name": "recycling"
+      },
+      {
+        "id": "300",
+        "name": "umwelt"
+      },
+      {
+        "id": "162",
+        "name": "upcycling"
+      },
+      {
+        "id": "125",
+        "name": "workshops"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "212",
+      "url": "die-motte",
+      "lat": "53.55029",
+      "lng": "9.9277",
+      "name": "die MOTTE e.V.",
+      "street": "Eulenstr. 43",
+      "zip": "22765",
+      "city": "Hamburg",
+      "country_name": "Deutschland",
+      "categories": [
+        "26",
+        "27",
+        "72",
+        "121",
+        "73",
+        "183",
+        "96",
+        "87",
+        "113",
+        "77",
+        "94",
+        "88",
+        "122",
+        "25",
+        "102"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "153",
+        "name": "hühner"
+      },
+      {
+        "id": "151",
+        "name": "hühnerhaltung"
+      },
+      {
+        "id": "150",
+        "name": "imkerei"
+      },
+      {
+        "id": "152",
+        "name": "imkern"
+      },
+      {
+        "id": "149",
+        "name": "motorrad"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "842",
+      "url": "fixit",
+      "lat": "48.371906",
+      "lng": "10.8950444",
+      "name": "FIX IT, die offene Werkstatt in Augsburg",
+      "street": "FIX IT, die offene Werkstatt in Augsburg\r\nc/o Günter Schütz\r\nObstmarkt 11\r\n86152 Augsburg",
+      "zip": "86152",
+      "city": "Augsburg",
+      "country_name": "Deutschland",
+      "categories": [
+        "122",
+        "90"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "23",
+        "name": "basteln"
+      },
+      {
+        "id": "115",
+        "name": "fablab"
+      },
+      {
+        "id": "51",
+        "name": "nähen"
+      },
+      {
+        "id": "333",
+        "name": "rapaircafe"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "847",
+      "url": "fablab-muenchen",
+      "lat": "48.1359616",
+      "lng": "11.5382059",
+      "name": "FabLab München e.V.",
+      "street": "Gewerbehof Westend\r\nGollierstraße 70\r\nEingang D, 3. Stock",
+      "zip": "80339",
+      "city": "München",
+      "country_name": "Deutschland",
+      "categories": [
+        "73",
+        "123",
+        "95",
+        "77",
+        "102"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "874",
+      "url": "werkstatt-im-jukuz",
+      "lat": "49.97134",
+      "lng": "9.14783",
+      "name": "Werkstatt im JUKUZ",
+      "street": "Werkstatt im JUKUZ\r\nKirchhofweg 2",
+      "zip": "63739",
+      "city": "Aschaffenburg",
+      "country_name": "Deutschland",
+      "categories": [
+        "114",
+        "87",
+        "113",
+        "77",
+        "107",
+        "89",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "891",
+      "url": "fau-fablab",
+      "lat": "49.57385",
+      "lng": "11.02704",
+      "name": "FAU FABLAB",
+      "street": "Lehrstuhl für Informatik 3\r\nc/o FAU FabLab\r\nMartensstraße 3",
+      "zip": "91058",
+      "city": "Erlangen",
+      "country_name": "Deutschland",
+      "categories": [
+        "123",
+        "95",
+        "87",
+        "98",
+        "94",
+        "88",
+        "122",
+        "89",
+        "90",
+        "100"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "904",
+      "url": "kabutze",
+      "lat": "54.0973548",
+      "lng": "13.3780018",
+      "name": "Kabutze",
+      "street": "Friedrich-Loeffler-Straße 44a",
+      "zip": "17489",
+      "city": "Greifswald",
+      "country_name": "Deutschland",
+      "categories": [
+        "26",
+        "72",
+        "73",
+        "123",
+        "77",
+        "122",
+        "25",
+        "102",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "913",
+      "url": "nadelwald-co-sewing-space",
+      "lat": "52.4890792",
+      "lng": "13.4279212",
+      "name": "Nadelwald co-sewing space",
+      "street": "Friedelstraße 11",
+      "zip": "12047",
+      "city": "Berlin",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "26",
+        "72",
+        "73",
+        "123",
+        "77",
+        "128",
+        "69",
+        "122",
+        "25",
+        "102",
+        "90"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "178",
+        "name": "anfänger"
+      },
+      {
+        "id": "183",
+        "name": "atelier"
+      },
+      {
+        "id": "180",
+        "name": "berlin"
+      },
+      {
+        "id": "181",
+        "name": "co-sewing"
+      },
+      {
+        "id": "184",
+        "name": "crafting"
+      },
+      {
+        "id": "185",
+        "name": "diy"
+      },
+      {
+        "id": "179",
+        "name": "fortgeschrittene"
+      },
+      {
+        "id": "186",
+        "name": "handmade"
+      },
+      {
+        "id": "176",
+        "name": "lernen"
+      },
+      {
+        "id": "182",
+        "name": "nähcafé"
+      },
+      {
+        "id": "51",
+        "name": "nähen"
+      },
+      {
+        "id": "175",
+        "name": "schnitte erstellen"
+      },
+      {
+        "id": "177",
+        "name": "shoppen"
+      },
+      {
+        "id": "174",
+        "name": "stricken"
+      },
+      {
+        "id": "187",
+        "name": "verkaufen"
+      },
+      {
+        "id": "125",
+        "name": "workshops"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "916",
+      "url": "frauenhandwerkstatt",
+      "lat": "53.5848013",
+      "lng": "10.060525",
+      "name": "Frauenhandwerkstatt",
+      "street": "Elsässer Straße 4",
+      "zip": "22049",
+      "city": "Hamburg",
+      "country_name": "Deutschland",
+      "categories": [
+        "73",
+        "87",
+        "113",
+        "77",
+        "25",
+        "102"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "918",
+      "url": "garnhotel-die-offene-naehwerkstatt-in-augsburg",
+      "lat": "48.37263",
+      "lng": "10.90012",
+      "name": "Garnhotel, die offene Nähwerkstatt in Augsburg",
+      "street": "Grandhotel Cosmopolis\r\nSpringergäßchen 5",
+      "zip": "86152",
+      "city": "Augsburg",
+      "country_name": "Deutschland",
+      "categories": [
+        "73",
+        "77",
+        "90"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "190",
+        "name": "augsburg"
+      },
+      {
+        "id": "191",
+        "name": "garnhotel"
+      },
+      {
+        "id": "192",
+        "name": "grandhotel"
+      },
+      {
+        "id": "100",
+        "name": "nähwerkstatt"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "927",
+      "url": "gaengeviertel",
+      "lat": "53.55489",
+      "lng": "9.98329",
+      "name": "Gängeviertel",
+      "street": "Valentinskamp, Caffamacherreihe, Speckstraße",
+      "zip": "20355",
+      "city": "Hamburg",
+      "country_name": "Deutschland",
+      "categories": [
+        "67",
+        "26",
+        "178",
+        "27",
+        "72",
+        "183",
+        "130",
+        "107",
+        "94",
+        "126",
+        "71"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "955",
+      "url": "wissenschaftsladen-potsdam-e-v",
+      "lat": "52.38937",
+      "lng": "13.07694",
+      "name": "Wissenschaftsladen Potsdam e.V.",
+      "street": "freiLand\r\nFriedrich-Engels-Strasse 22",
+      "zip": "14473",
+      "city": "Potsdam",
+      "country_name": "Deutschland",
+      "categories": [
+        "73",
+        "123",
+        "95",
+        "87",
+        "77",
+        "389",
+        "122",
+        "102"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "972",
+      "url": "wagnis-werkstatt",
+      "lat": "48.1294145",
+      "lng": "11.700044",
+      "name": "wagnis-werkstatt",
+      "street": "Heinrich-Böll-Str.69",
+      "zip": "81829",
+      "city": "München",
+      "country_name": "Deutschland",
+      "categories": [
+        "26",
+        "125",
+        "121",
+        "73",
+        "123",
+        "87",
+        "113",
+        "77",
+        "128",
+        "107",
+        "126",
+        "122",
+        "25",
+        "89",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "979",
+      "url": "garagelab-e-v",
+      "lat": "51.2105",
+      "lng": "6.7803",
+      "name": "GarageLab e.V.",
+      "street": "Bilker Allee 217\r\nHinterhof",
+      "zip": "40215",
+      "city": "Düsseldorf",
+      "country_name": "Deutschland",
+      "categories": [
+        "73",
+        "123",
+        "95",
+        "183",
+        "87",
+        "98",
+        "389",
+        "122",
+        "102"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "278",
+        "name": "3d-druck"
+      },
+      {
+        "id": "281",
+        "name": "3d-print"
+      },
+      {
+        "id": "115",
+        "name": "fablab"
+      },
+      {
+        "id": "221",
+        "name": "rapid prototyping"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "982",
+      "url": "raumzeitlabor",
+      "lat": "49.5096",
+      "lng": "8.50127",
+      "name": "RaumZeitLabor e.V.",
+      "street": "Boveristraße 22-24",
+      "zip": "68309",
+      "city": "Mannheim",
+      "country_name": "Deutschland",
+      "categories": [
+        "123",
+        "95",
+        "130",
+        "94",
+        "122",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "989",
+      "url": "holzwerkstaettin-kubiz-wallenberg",
+      "lat": "52.5570588",
+      "lng": "13.4700603",
+      "name": "Holzwerkstättin KuBiZ Wallenberg",
+      "street": "Bernkasteler Str. 78",
+      "zip": "13088",
+      "city": "Berlin",
+      "country_name": "Deutschland",
+      "categories": [
+        "87",
+        "25"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1394",
+      "url": "fahrrad-und-verkehrs-ag-des-asta-der-tu-braunschweig",
+      "lat": "52.2700591",
+      "lng": "10.5109435",
+      "name": "Fahrrad-und Verkehrs AG des AStA der TU Braunschweig",
+      "street": "Eulenstr. 5",
+      "zip": "38114",
+      "city": "Braunschweig",
+      "country_name": "Deutschland",
+      "categories": [
+        "183",
+        "69",
+        "88",
+        "122",
+        "102"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "395",
+        "name": "anhängerbau"
+      },
+      {
+        "id": "394",
+        "name": "fahrradverleih"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "991",
+      "url": "schokowerkstatt",
+      "lat": "52.5008868",
+      "lng": "13.423365",
+      "name": "schokowerkstatt, die|frauenmöbelwerkstatt",
+      "street": "Mariannenstr. 6",
+      "zip": "10997",
+      "city": "Berlin - Kreuzberg",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "26",
+        "73",
+        "87",
+        "69",
+        "71",
+        "102"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1020",
+      "url": "atelier-culture-der-wiesbadener-naehsalon",
+      "lat": "50.04207",
+      "lng": "8.23953",
+      "name": "Atelier Culture | der Wiesbadener NähSalon",
+      "street": "Rathausstraße 60",
+      "zip": "65203",
+      "city": "Wiesbaden",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "73",
+        "123",
+        "77",
+        "69",
+        "122",
+        "25",
+        "102",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1043",
+      "url": "kunstkollektiv-jaffe",
+      "lat": "53.5088179",
+      "lng": "10.0006587",
+      "name": "Kunstkollektiv Jaffe",
+      "street": "Jaffestraße 12",
+      "zip": "21109",
+      "city": "Hamburg",
+      "country_name": "Deutschland",
+      "categories": [
+        "96",
+        "90"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "282",
+        "name": "bewegung"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "1051",
+      "url": "colorlabor",
+      "lat": "51.3218994",
+      "lng": "9.4998472",
+      "name": "ColorLabor",
+      "street": "Siebdruckwerkstatt ColorLabor\r\nc/o Karoshi\r\nInitiative für Soziokultur und Jugend e.V.\r\nGießbergstraße 41 - 47",
+      "zip": "34127",
+      "city": "Kassel",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "26",
+        "27",
+        "72",
+        "121",
+        "73",
+        "123",
+        "77",
+        "107",
+        "69",
+        "25",
+        "102",
+        "90",
+        "100"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "292",
+        "name": "color"
+      },
+      {
+        "id": "185",
+        "name": "diy"
+      },
+      {
+        "id": "284",
+        "name": "druck"
+      },
+      {
+        "id": "286",
+        "name": "experiment"
+      },
+      {
+        "id": "287",
+        "name": "experimenteller druck"
+      },
+      {
+        "id": "293",
+        "name": "labor"
+      },
+      {
+        "id": "90",
+        "name": "offene werkstatt"
+      },
+      {
+        "id": "129",
+        "name": "screenprinting"
+      },
+      {
+        "id": "291",
+        "name": "selbstorganisation"
+      },
+      {
+        "id": "290",
+        "name": "selbstorganisiert"
+      },
+      {
+        "id": "283",
+        "name": "serigrafie"
+      },
+      {
+        "id": "114",
+        "name": "siebdruck"
+      },
+      {
+        "id": "289",
+        "name": "silkscreening"
+      },
+      {
+        "id": "125",
+        "name": "workshops"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "1092",
+      "url": "der-radcontainer",
+      "lat": "52.5028954",
+      "lng": "13.4103211",
+      "name": "Der Radcontainer",
+      "street": "Prinzenstraße 35-38,\r\nauf dem Gelände der Prinzessinnengärten",
+      "zip": "10969",
+      "city": "Berlin",
+      "country_name": "Deutschland",
+      "categories": [
+        "73",
+        "123",
+        "183",
+        "77",
+        "88",
+        "122",
+        "100"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1096",
+      "url": "holzwerkstatt-regenbogenfabrik",
+      "lat": "52.4955606",
+      "lng": "13.4268541",
+      "name": "Holzwerkstatt Regenbogenfabrik",
+      "street": "Lausitzer Str. 22",
+      "zip": "10999",
+      "city": "Berlin",
+      "country_name": "Deutschland",
+      "categories": [
+        "87",
+        "122"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1131",
+      "url": "film-coop",
+      "lat": "48.1376926",
+      "lng": "11.5336389",
+      "name": "film.coop im Münchner Westend",
+      "street": "Westendstraße 123",
+      "zip": "80339",
+      "city": "München",
+      "country_name": "Deutschland",
+      "categories": [
+        "27",
+        "73",
+        "94",
+        "71",
+        "25",
+        "102"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "320",
+        "name": "film"
+      },
+      {
+        "id": "325",
+        "name": "greenscreen"
+      },
+      {
+        "id": "327",
+        "name": "independent film"
+      },
+      {
+        "id": "328",
+        "name": "indie film"
+      },
+      {
+        "id": "329",
+        "name": "indiefilm"
+      },
+      {
+        "id": "331",
+        "name": "jour fixe"
+      },
+      {
+        "id": "326",
+        "name": "kino"
+      },
+      {
+        "id": "322",
+        "name": "kurzfilm"
+      },
+      {
+        "id": "330",
+        "name": "seminare"
+      },
+      {
+        "id": "323",
+        "name": "studio"
+      },
+      {
+        "id": "321",
+        "name": "video"
+      },
+      {
+        "id": "125",
+        "name": "workshops"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "1106",
+      "url": "himmelsgruen-malatelier",
+      "lat": "48.1236037",
+      "lng": "11.5364805",
+      "name": "himmelsgrün malatelier",
+      "street": "Fuggerstraße 4-6",
+      "zip": "81373",
+      "city": "München",
+      "country_name": "Deutschland",
+      "categories": [
+        "26",
+        "72",
+        "73",
+        "123",
+        "107",
+        "25"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1157",
+      "url": "offene-werkstatt-anklam",
+      "lat": "53.85567",
+      "lng": "13.69149",
+      "name": "Offene Werkstatt Anklam",
+      "street": "Max-Sander-Straße 1",
+      "zip": "17389",
+      "city": "Anklam",
+      "country_name": "Deutschland",
+      "categories": []
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1164",
+      "url": "werkstadthaus",
+      "lat": "48.5103674",
+      "lng": "9.0783994",
+      "name": "Werkstadthaus",
+      "street": "Aixer Str. 72",
+      "zip": "72072",
+      "city": "Tübingen",
+      "country_name": "Deutschland",
+      "categories": [
+        "26",
+        "73",
+        "183",
+        "87",
+        "113",
+        "77",
+        "128",
+        "88",
+        "25",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1166",
+      "url": "digitales-aachen-e-v-digitac",
+      "lat": "50.779273",
+      "lng": "6.0863271",
+      "name": "Digitales Aachen e.V. (Digitac)",
+      "street": "Digitales Aachen e.V.\r\nMartinstr. 10-12",
+      "zip": "52062",
+      "city": "Aachen",
+      "country_name": "Deutschland",
+      "categories": [
+        "123",
+        "95",
+        "94",
+        "389",
+        "122"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1185",
+      "url": "attraktor",
+      "lat": "53.5488885",
+      "lng": "9.9426073",
+      "name": "Attraktor e.V.",
+      "street": "Eschelsweg 4\r\n1. Stock",
+      "zip": "22767",
+      "city": "Hamburg",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "26",
+        "27",
+        "121",
+        "73",
+        "123",
+        "95",
+        "96",
+        "87",
+        "77",
+        "130",
+        "98",
+        "88",
+        "122",
+        "25",
+        "102",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1211",
+      "url": "fablab-braunschweig",
+      "lat": "52.2802311",
+      "lng": "10.5390217",
+      "name": "FabLab Braunschweig",
+      "street": "Rebenring 48\r\nsiehe Blog (wir suchen noch)",
+      "zip": "38106",
+      "city": "Braunschweig",
+      "country_name": "Deutschland",
+      "categories": [
+        "95",
+        "389"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1220",
+      "url": "eigenbaukombinat-halle-e-v",
+      "lat": "51.46667",
+      "lng": "11.98547",
+      "name": "Eigenbaukombinat Halle e.V.",
+      "street": "Julius-Ebeling-Str. 9",
+      "zip": "06112",
+      "city": "Halle (Saale)",
+      "country_name": "Deutschland",
+      "categories": [
+        "73",
+        "123",
+        "95",
+        "183",
+        "96",
+        "87",
+        "130",
+        "88",
+        "122",
+        "90"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "120",
+        "name": "3d drucker"
+      },
+      {
+        "id": "358",
+        "name": "cnc"
+      },
+      {
+        "id": "304",
+        "name": "dunkelkammer"
+      },
+      {
+        "id": "128",
+        "name": "elektronik"
+      },
+      {
+        "id": "359",
+        "name": "fotostudio"
+      },
+      {
+        "id": "189",
+        "name": "holz"
+      },
+      {
+        "id": "392",
+        "name": "kochen"
+      },
+      {
+        "id": "166",
+        "name": "löten"
+      },
+      {
+        "id": "51",
+        "name": "nähen"
+      },
+      {
+        "id": "391",
+        "name": "rc-modellbau"
+      },
+      {
+        "id": "57",
+        "name": "reparieren"
+      },
+      {
+        "id": "114",
+        "name": "siebdruck"
+      },
+      {
+        "id": "174",
+        "name": "stricken"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "1224",
+      "url": "cafekaputt",
+      "lat": "51.3381679",
+      "lng": "12.3259851",
+      "name": "Café Kaputt",
+      "street": "Merseburgerstraße 102",
+      "zip": "04177",
+      "city": "Leipzig",
+      "country_name": "Deutschland",
+      "categories": [
+        "123",
+        "389",
+        "122"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "361",
+        "name": "repair café"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "1228",
+      "url": "offensiwe",
+      "lat": "51.3360294",
+      "lng": "12.3260399",
+      "name": "OffenSiWe",
+      "street": "Demmeringstraße 72",
+      "zip": "04177",
+      "city": "Leipzig",
+      "country_name": "Deutschland",
+      "categories": [
+        "121",
+        "73",
+        "77",
+        "102",
+        "100"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "114",
+        "name": "siebdruck"
+      },
+      {
+        "id": "143",
+        "name": "siebdrucken"
+      },
+      {
+        "id": "362",
+        "name": "silkscreenprinting"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "1241",
+      "url": "selbsthilfe-ganz-mach-laden",
+      "lat": "52.5868",
+      "lng": "13.29422",
+      "name": "Selbsthilfe  Ganz - mach - Laden",
+      "street": "Trettachzeile 3",
+      "zip": "13509",
+      "city": "Berlin - Tegel",
+      "country_name": "Deutschland",
+      "categories": [
+        "389",
+        "122"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1250",
+      "url": "atelier-im-sandkasten",
+      "lat": "47.4875128",
+      "lng": "9.474455",
+      "name": "Atelier im Sandkasten",
+      "street": "Seewiesstrasse 3",
+      "zip": "9403",
+      "city": "Goldach",
+      "country_name": "Schweiz",
+      "categories": [
+        "68",
+        "26",
+        "27",
+        "121",
+        "73",
+        "123",
+        "95",
+        "96",
+        "87",
+        "77",
+        "130",
+        "107",
+        "88",
+        "25",
+        "124",
+        "119",
+        "102",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1264",
+      "url": "sekundaer-schick",
+      "lat": "52.5002811",
+      "lng": "13.5166027",
+      "name": "SEKUNDÄR-SCHiCK",
+      "street": "Sigrid Ellen Münzberg\r\nSEKUNDÄR-SCHiCK\r\nTreskowallee 101\r\nRaum Dachgeschoss\r\n10319 Berlin - Karlshorst",
+      "zip": "10319",
+      "city": "Berlin",
+      "country_name": "Deutschland",
+      "categories": [
+        "123",
+        "114",
+        "87",
+        "128",
+        "98",
+        "119",
+        "90"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "366",
+        "name": "design"
+      },
+      {
+        "id": "51",
+        "name": "nähen"
+      },
+      {
+        "id": "103",
+        "name": "nähkurs"
+      },
+      {
+        "id": "365",
+        "name": "redesign"
+      },
+      {
+        "id": "367",
+        "name": "salonabend"
+      },
+      {
+        "id": "162",
+        "name": "upcycling"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "1278",
+      "url": "alte-giesserei-berlin-e-v",
+      "lat": "52.52687",
+      "lng": "13.49136",
+      "name": "Alte Gießerei Berlin e. V.",
+      "street": "Herzbergstraße 123",
+      "zip": "10365",
+      "city": "Berlin",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "121",
+        "73",
+        "123",
+        "95",
+        "183",
+        "96",
+        "87",
+        "107",
+        "98",
+        "88",
+        "126",
+        "122",
+        "119",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1487",
+      "url": "stadt-teil-werkstatt",
+      "lat": "52.388",
+      "lng": "9.71991",
+      "name": "Stadt-Teil-Werkstatt",
+      "street": "Kniesrtraße 10",
+      "zip": "30167",
+      "city": "Hannover (Nordstadt)",
+      "country_name": "Deutschland",
+      "categories": [
+        "73",
+        "123",
+        "95",
+        "183",
+        "87",
+        "77",
+        "98",
+        "179",
+        "88",
+        "389",
+        "122",
+        "25",
+        "102"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1290",
+      "url": "coyote",
+      "lat": "52.38937",
+      "lng": "13.07694",
+      "name": "coyote Druckwerkstatt/STUDIO114",
+      "street": "Friedrich-Engels-Straße 22, Haus 1",
+      "zip": "14473",
+      "city": "Potsdam",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "121",
+        "73",
+        "77",
+        "69",
+        "25",
+        "102",
+        "90",
+        "100"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "114",
+        "name": "siebdruck"
+      },
+      {
+        "id": "143",
+        "name": "siebdrucken"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "1299",
+      "url": "backspace-hackerspace-bamberg",
+      "lat": "49.9019278",
+      "lng": "10.8927419",
+      "name": "Backspace (Hackerspace Bamberg)",
+      "street": "Spiegelgraben 41",
+      "zip": "96052",
+      "city": "Bamberg",
+      "country_name": "Deutschland",
+      "categories": [
+        "123",
+        "94",
+        "122"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1304",
+      "url": "fablab-paderborn-e-v",
+      "lat": "51.7171627",
+      "lng": "8.7475327",
+      "name": "FabLab-Paderborn e.V.",
+      "street": "Westernmauer 12",
+      "zip": "33098",
+      "city": "Paderborn",
+      "country_name": "Deutschland",
+      "categories": [
+        "123",
+        "95",
+        "389",
+        "122"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1307",
+      "url": "volldabei-fahrrad-club",
+      "lat": "48.3762765",
+      "lng": "10.8683256",
+      "name": "VOLLDABEI Fahrrad-Reparatur-Café",
+      "street": "Kulturpark West\r\nSommestr. 38",
+      "zip": "86159",
+      "city": "Augsburg",
+      "country_name": "Deutschland",
+      "categories": [
+        "73",
+        "123",
+        "183",
+        "77",
+        "389",
+        "122",
+        "102"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1315",
+      "url": "ifllab",
+      "lat": "49.96194",
+      "lng": "11.61742",
+      "name": "FabLab-Bayreuth",
+      "street": "Ritter-von-Eitzenberger-Str. 19",
+      "zip": "95448",
+      "city": "Bayreuth",
+      "country_name": "Deutschland",
+      "categories": [
+        "123",
+        "95",
+        "102"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1321",
+      "url": "holzwerkstatt-hausdrei",
+      "lat": "53.55625",
+      "lng": "9.94732",
+      "name": "Holzwerkstatt HausDrei",
+      "street": "Hospitalstr.107",
+      "zip": "22767",
+      "city": "Hamburg",
+      "country_name": "Deutschland",
+      "categories": [
+        "123",
+        "87",
+        "113",
+        "128",
+        "88",
+        "389",
+        "122",
+        "124"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1327",
+      "url": "werkimpuls",
+      "lat": "48.2023258",
+      "lng": "16.3431938",
+      "name": "Werkimpuls",
+      "street": "Kandlgasse 15/3-4 - Eingang Schottenfeldgasse",
+      "zip": "1070",
+      "city": "Wien",
+      "country_name": "Österreich",
+      "categories": [
+        "123",
+        "183",
+        "87",
+        "98",
+        "88",
+        "122"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1340",
+      "url": "atelier-frau-kultur",
+      "lat": "52.4699198",
+      "lng": "12.9965755",
+      "name": "Atelier Frau Kultur",
+      "street": "Neues Atelierhaus Panzerhalle e.V.\r\nSeeburger Chausee 2",
+      "zip": "14476",
+      "city": "Potsdam",
+      "country_name": "Deutschland",
+      "categories": [
+        "178",
+        "73",
+        "123",
+        "96",
+        "77",
+        "107",
+        "94",
+        "102",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1343",
+      "url": "machwerk-naehwerkstatt-stadtschloss",
+      "lat": "52.5318983",
+      "lng": "13.3263283",
+      "name": "MachWERK - Moabiter Werkstätten",
+      "street": "Rostocker Str. 32,",
+      "zip": "10553",
+      "city": "Berlin",
+      "country_name": "Deutschland",
+      "categories": [
+        "73",
+        "183",
+        "113",
+        "77",
+        "122",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1404",
+      "url": "l1a-makerspace",
+      "lat": "49.8775536",
+      "lng": "8.6577256",
+      "name": "L1A Makerspace",
+      "street": "Lauteschlägerstr. 1A",
+      "zip": "64289",
+      "city": "Darmstadt",
+      "country_name": "Deutschland",
+      "categories": [
+        "123",
+        "95",
+        "389",
+        "122"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1412",
+      "url": "shackspace",
+      "lat": "48.77696",
+      "lng": "9.23562",
+      "name": "shackspace",
+      "street": "Ulmer Str. 255",
+      "zip": "70327",
+      "city": "Stuttgart",
+      "country_name": "Deutschland",
+      "categories": [
+        "123",
+        "95",
+        "390",
+        "87",
+        "130",
+        "107",
+        "98",
+        "94",
+        "88",
+        "389",
+        "122",
+        "90",
+        "100"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "185",
+        "name": "diy"
+      },
+      {
+        "id": "128",
+        "name": "elektronik"
+      },
+      {
+        "id": "354",
+        "name": "hacker"
+      },
+      {
+        "id": "226",
+        "name": "hackerspace"
+      },
+      {
+        "id": "397",
+        "name": "hardware"
+      },
+      {
+        "id": "194",
+        "name": "kunst"
+      },
+      {
+        "id": "396",
+        "name": "software"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "1415",
+      "url": "offene-werkstatt-petersburg",
+      "lat": "52.2711346",
+      "lng": "8.0862113",
+      "name": "Offene Werkstatt an der Petersburg",
+      "street": "Freiraum Petersburg\r\nHamburgerstr. 22b\r\n49084 Osnabrück",
+      "zip": "49084",
+      "city": "Osnabrück",
+      "country_name": "Deutschland",
+      "categories": [
+        "26",
+        "27",
+        "72",
+        "123",
+        "183",
+        "390",
+        "87",
+        "107",
+        "88",
+        "71",
+        "389",
+        "122",
+        "25",
+        "90"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "402",
+        "name": "freiraum"
+      },
+      {
+        "id": "189",
+        "name": "holz"
+      },
+      {
+        "id": "403",
+        "name": "konsumkritik"
+      },
+      {
+        "id": "302",
+        "name": "kreativ"
+      },
+      {
+        "id": "195",
+        "name": "kultur"
+      },
+      {
+        "id": "194",
+        "name": "kunst"
+      },
+      {
+        "id": "398",
+        "name": "metall"
+      },
+      {
+        "id": "401",
+        "name": "osnabrück"
+      },
+      {
+        "id": "400",
+        "name": "petersburg"
+      },
+      {
+        "id": "57",
+        "name": "reparieren"
+      },
+      {
+        "id": "169",
+        "name": "sägen"
+      },
+      {
+        "id": "399",
+        "name": "schweißen"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "1428",
+      "url": "fablab-regensburg",
+      "lat": "48.99805",
+      "lng": "12.13104",
+      "name": "Fablab Regensburg",
+      "street": "Grunewaldstr. 5",
+      "zip": "93053",
+      "city": "Regensburg",
+      "country_name": "Deutschland",
+      "categories": [
+        "123",
+        "95"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1438",
+      "url": "jugendkulturhaus-dynamo",
+      "lat": "47.3834007",
+      "lng": "8.5393821",
+      "name": "Jugendkulturhaus Dynamo",
+      "street": "Jugendkulturhaus Dynamo\r\nWasserwerkstrasse 21",
+      "zip": "8006",
+      "city": "Zürich",
+      "country_name": "Schweiz",
+      "categories": [
+        "27",
+        "121",
+        "183",
+        "77",
+        "94",
+        "88",
+        "71",
+        "122",
+        "25",
+        "119",
+        "90"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "419",
+        "name": "breakdance"
+      },
+      {
+        "id": "418",
+        "name": "buttonstation"
+      },
+      {
+        "id": "114",
+        "name": "siebdruck"
+      },
+      {
+        "id": "420",
+        "name": "snowboard-werkstatt"
+      },
+      {
+        "id": "421",
+        "name": "theater"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "1439",
+      "url": "stoffdeck-co-working-wilhelmsburg",
+      "lat": "53.4998604",
+      "lng": "9.9735576",
+      "name": "Stoffdeck Co-Working Wilhelmsburg",
+      "street": "Am Veringhof 13, Kanalgebäude, 2.OG",
+      "zip": "21107",
+      "city": "Hamburg",
+      "country_name": "Deutschland",
+      "categories": []
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1444",
+      "url": "hackerspace-bremen-e-v",
+      "lat": "53.0820283",
+      "lng": "8.8054686",
+      "name": "Hackerspace Bremen e.V.",
+      "street": "Bornstraße 14/15",
+      "zip": "28195",
+      "city": "Bremen",
+      "country_name": "Deutschland",
+      "categories": [
+        "121",
+        "73",
+        "123",
+        "390"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "422",
+        "name": "hobbywerkstatt hackerspace space"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "1450",
+      "url": "utopiawerkstatt",
+      "lat": "51.2668725",
+      "lng": "7.1453869",
+      "name": "UTOPIAwerkstatt",
+      "street": "Utopiastadt (Mirker Bahnhof)\r\nMirker Straße 48",
+      "zip": "42105",
+      "city": "Wuppertal",
+      "country_name": "Deutschland",
+      "categories": [
+        "67",
+        "26",
+        "27",
+        "72",
+        "73",
+        "123",
+        "95",
+        "183",
+        "390",
+        "87",
+        "77",
+        "88",
+        "389",
+        "122",
+        "25"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1453",
+      "url": "die-werke",
+      "lat": "52.391104",
+      "lng": "9.7329526",
+      "name": "Die Werke",
+      "street": "Alemannstraße 21",
+      "zip": "30165",
+      "city": "Hannover",
+      "country_name": "Deutschland",
+      "categories": [
+        "73",
+        "123",
+        "95",
+        "87",
+        "77",
+        "88",
+        "122",
+        "102"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1467",
+      "url": "atelier-micaela-de",
+      "lat": "52.4853765",
+      "lng": "13.3989037",
+      "name": "atelier-micaela.de",
+      "street": "atelier-micaela\r\nAm Tempelhofer Berg 6\r\n10965 Berlin-Kreuzberg",
+      "zip": "10965",
+      "city": "Berlin",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "72",
+        "73",
+        "77",
+        "107",
+        "179",
+        "69",
+        "122",
+        "102",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1490",
+      "url": "munichmakerlab",
+      "lat": "48.1237883",
+      "lng": "11.6088206",
+      "name": "Munich Maker Lab",
+      "street": "Werk 1\r\nGrafinger Straße 6",
+      "zip": "81671",
+      "city": "München",
+      "country_name": "Deutschland",
+      "categories": [
+        "123",
+        "95"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1497",
+      "url": "silberfabrik",
+      "lat": "48.1308097",
+      "lng": "11.6052697",
+      "name": "silberfabrik",
+      "street": "Elsässer Straße 19",
+      "zip": "81667",
+      "city": "München",
+      "country_name": "Deutschland",
+      "categories": [
+        "68",
+        "72",
+        "121",
+        "73",
+        "123",
+        "87",
+        "77",
+        "128",
+        "107",
+        "179",
+        "102",
+        "90"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "114",
+        "name": "siebdruck"
+      },
+      {
+        "id": "143",
+        "name": "siebdrucken"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "1505",
+      "url": "hebewerk-e-v",
+      "lat": "52.8335332",
+      "lng": "13.8134601",
+      "name": "Hebewerk e.V.",
+      "street": "c/o Ingo Frost\r\nPuschkinstraße 15",
+      "zip": "16225",
+      "city": "Eberswalde",
+      "country_name": "Deutschland",
+      "categories": [
+        "123",
+        "95",
+        "94",
+        "389",
+        "122"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1509",
+      "url": "wunderhof",
+      "lat": "49.4486673",
+      "lng": "11.6395505",
+      "name": "Wunderhof Kreativwerkstatt",
+      "street": "Eckertsfeld 1",
+      "zip": "92262",
+      "city": "Birgland",
+      "country_name": "Deutschland",
+      "categories": [
+        "67",
+        "68",
+        "26",
+        "72",
+        "73",
+        "123",
+        "96",
+        "113",
+        "77",
+        "128",
+        "107",
+        "25",
+        "102"
+      ]
+    },
+    "Tags": [
+      {
+        "id": "429",
+        "name": "garten"
+      },
+      {
+        "id": "428",
+        "name": "kaffee"
+      },
+      {
+        "id": "195",
+        "name": "kultur"
+      },
+      {
+        "id": "194",
+        "name": "kunst"
+      }
+    ]
+  },
+  {
+    "Workshop": {
+      "uid": "1517",
+      "url": "bauer-planer",
+      "lat": "53.52069",
+      "lng": "9.98083",
+      "name": "bauer+planer",
+      "street": "Ernst-August-Deich 27",
+      "zip": "21107",
+      "city": "Hamburg",
+      "country_name": "Deutschland",
+      "categories": []
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1519",
+      "url": "vinnlab",
+      "lat": "52.3260146",
+      "lng": "13.6265615",
+      "name": "ViNN:Lab",
+      "street": "Haus 16/A Raum 2094\r\nHochschulring 1",
+      "zip": "15745",
+      "city": "Wildau",
+      "country_name": "Deutschland",
+      "categories": [
+        "123",
+        "95",
+        "98"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1550",
+      "url": "fahrradwerkstatt",
+      "lat": "50.9433297",
+      "lng": "6.9284563",
+      "name": "Fahrradwerkstatt",
+      "street": "Kreutzerstr. 5-9",
+      "zip": "50672",
+      "city": "Köln",
+      "country_name": "Deutschland",
+      "categories": [
+        "183"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1536",
+      "url": "fablab-berlin",
+      "lat": "52.5341936",
+      "lng": "13.4230065",
+      "name": "FabLab-Berlin",
+      "street": "Makea Industries GmbH\r\nSaarbrücker Str. 24 – Haus C",
+      "zip": "10405",
+      "city": "Berlin",
+      "country_name": "Deutschland",
+      "categories": []
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1537",
+      "url": "mr-und-mrs-naehcaf",
+      "lat": "50.7372904",
+      "lng": "7.1198032",
+      "name": "Mr. und Mrs. Nähcafé",
+      "street": "Limpericher Straße 22",
+      "zip": "53225",
+      "city": "Bonn",
+      "country_name": null,
+      "categories": []
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1539",
+      "url": "werkstatt-lindenau",
+      "lat": "51.3387273",
+      "lng": "12.3225704",
+      "name": "Werkstatt Lindenau",
+      "street": "Merseburger Straße 127",
+      "zip": "04177",
+      "city": "Lindenau",
+      "country_name": "Deutschland",
+      "categories": [
+        "73",
+        "183",
+        "87",
+        "179",
+        "122",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1540",
+      "url": "linienhof-offene-metallwerkstatt",
+      "lat": "52.4823945",
+      "lng": "13.4653976",
+      "name": "Linienhof-offene Metallwerkstatt",
+      "street": "Karpfenteichstr. 13",
+      "zip": "12435",
+      "city": "Berlin",
+      "country_name": "Deutschland",
+      "categories": []
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1552",
+      "url": "naehcaf-kiel",
+      "lat": "54.3288581",
+      "lng": "10.1324247",
+      "name": "Nähcafé Kiel",
+      "street": "Jägersberg 5",
+      "zip": "24103",
+      "city": "Kiel",
+      "country_name": "Deutschland",
+      "categories": []
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1554",
+      "url": "hobbyhimmel",
+      "lat": "48.7754181",
+      "lng": "9.1817588",
+      "name": "HOBBYHIMMEL",
+      "street": "derzeit auf Hallensuche im Großraum Stuttgart",
+      "zip": "70001",
+      "city": "Stuttgart",
+      "country_name": "Deutschland",
+      "categories": []
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1563",
+      "url": "lebenimsein",
+      "lat": "48.0225542",
+      "lng": "14.3923714",
+      "name": "Montagswerkstatt Leben im Sein",
+      "street": "Herrenweidestrasse 4",
+      "zip": "4451",
+      "city": "Garsten",
+      "country_name": "Österreich",
+      "categories": [
+        "67",
+        "26",
+        "27",
+        "72",
+        "121",
+        "73",
+        "123",
+        "96",
+        "390",
+        "87",
+        "113",
+        "77",
+        "130",
+        "107",
+        "94",
+        "88",
+        "389",
+        "122",
+        "124",
+        "119",
+        "89",
+        "90"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1565",
+      "url": "fahrradwerkstatt-isselburg",
+      "lat": "51.83267",
+      "lng": "6.46823",
+      "name": "Offene Fahrrad-Werkstatt Isselburg",
+      "street": "Herzog-Adolph-Straße 15",
+      "zip": "46419",
+      "city": "Isselburg",
+      "country_name": "Deutschland",
+      "categories": [
+        "183"
+      ]
+    },
+    "Tags": []
+  },
+  {
+    "Workshop": {
+      "uid": "1567",
+      "url": "chaostreff-dortmund",
+      "lat": "51.52768",
+      "lng": "7.46488",
+      "name": "Chaostreff Dortmund e.V.",
+      "street": "Braunschweiger Str 22",
+      "zip": "44145",
+      "city": "Dortmund",
+      "country_name": "Deutschland",
+      "categories": [
+        "123",
+        "95",
+        "390"
+      ]
+    },
+    "Tags": []
+  }
+]
